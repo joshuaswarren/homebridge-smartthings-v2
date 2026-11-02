@@ -10,6 +10,7 @@
 - [@tonesto7](https://github.com/tonesto7)
 - [@torandreroland](https://github.com/torandreroland)
 - [@zachswasey](https://github.com/zachswasey)
+
 _Linked GitHub accounts only. Anonymous (unlinked) commit authors are
 enumerable through the API (anon=true) but are identified there only by
 name/email, which this registry does not publish; credit them by hand in
